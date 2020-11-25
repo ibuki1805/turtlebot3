@@ -20,7 +20,7 @@
       <material name="light_black"/>
     </visual>
 
-    <collision>
+    <collision name="turtlebot3_contact">
       <origin xyz="-0.032 0 0.070" rpy="0 0 0"/>
       <geometry>
         <box size="0.140 0.140 0.143"/>
